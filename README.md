@@ -1,6 +1,8 @@
 # Apparat API
 
-Work in progress 
+Work in progress
+
+[https://apparat-api.herokuapp.com/](https://apparat-api.herokuapp.com/)
 
 ## Endepunkter
 
