@@ -19,7 +19,7 @@ func main() {
 	router.GET("/employeenames", config.DI.EmployeeController.GetEmployeeNames)
 	router.Handle("GET", "/favicon.ico", noopHandler)
 
-	router.ServeFiles("/public/profilbilder/*filepath", http.Dir("public/profilbilder"))
+	router.ServeFiles("/public/profilepictures/*filepath", http.Dir("public/profilbilder"))
 
 	log.Printf("server listening on %s", port)
 	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%s", port), router))
