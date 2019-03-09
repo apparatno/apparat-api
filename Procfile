@@ -1,1 +1,1 @@
-web: apparat-api
+web: ./bin/src
