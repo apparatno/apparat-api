@@ -2,19 +2,19 @@ package config
 
 import "apparat-api/src/www"
 
-type InversionOfControlContainer struct {
+type Container struct {
 	EmployeeController *www.EmployeeController
 	Configuration      *Configuration
 }
 
-var DI InversionOfControlContainer
+var DI Container
 
-func SetupDependencies() {
+func SetupDI() {
 	configuration := &Configuration{}
 
 	employeeController := &www.EmployeeController{}
 
-	DI = InversionOfControlContainer{
+	DI = Container{
 		EmployeeController: employeeController,
 		Configuration:      configuration,
 	}
