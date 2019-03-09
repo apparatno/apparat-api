@@ -1,0 +1,180 @@
+{
+    "candidate": {
+        "name": "Rogério C. B. L. Póvoa",
+        "picture": "/profilbilder/rogerio-povoa.jpg",
+        "title": "Data Scientist - Optimalisering og Maskinlæring",
+        "mail": "rogerio.povoa@apparat.no",
+        "location": "Bergen",
+        "website": "www.apparat.no",
+        "linkedin": "linkedin.com/in/rogeriopovoa",
+        "skills": [
+            "Computational Intelligens",
+            "Computational Nanoteknologi",
+            "CUDA/GPU",
+            "C/C++/C#",
+            "Data Mining",
+            "Dyp Læring",
+            "FoU",
+			"Go",
+			"Google Cloud Platform",
+            "High Performance Computing",
+            "Intelligente Hybridsystemer",
+            "Julia",
+            "Maskinlæring",
+            "Matlab",
+            "MVC",
+            "Optimilisering",
+            "Programvareutvikling",
+            "Prosjektledelse",
+            "Python",
+            "SQL",
+            "Teknologisk Prospektering",
+			"TensorFlow"
+        ],
+        "languages": [
+            {
+                "lang": "Engelsk",
+                "rank": 5
+            },
+            {
+                "lang": "Portugisisk",
+                "rank": 5
+            },
+            {
+                "lang": "Norsk",
+                "rank": 1
+            }
+        ],
+        "hobbies": [
+            "Krav Maga",
+            "Teknologi",
+            "Reise"
+        ]
+    },
+    "work": [
+		{
+			"company": "Apparat AS",
+			"description": "Data Scientist",
+			"period": "09/2018 -",
+			"location": "Bergen, Norge",
+			"website": "https://apparat.no",
+			"skills": "Computational Intelligens, Optimalisering, Maskinlæring, Dyp Læring, Python, TensorFlow, Go, Google Cloud Platform",
+			"experience": [
+				"Project Screen - Dette prosjektet tar sikte på å utvikle en kunstig intelligens-løsning som visuelt gjenkjenner ansatte. Med utgangspunkt i denne vil det være mulig å utvikle flere ulike interaktive funksjoner som adgangskontroll, kalender-implementering og generelle arbeidsplasstilpasninger.",
+				"Løsningen baserer seg på TensorFlow hvor jeg har implementert algoritmer for gjenkjenning av individer med et nivå av treffsikkerhet på rundt 95-98%",
+				"Det utvikles APIer for enkel implementasjon av læremotor, samt å spørre etter treffratio etter gitte kriterier for løsningen. Dette implementeres i stor grad i Go på Google Cloud Platform."
+			]
+		},
+        {
+            "company": "MSSM/LabMMol (URFJ)",
+            "description": "Forsker",
+            "period": "01/2014 - 03/2018",
+            "location": "Rio de Janeiro, Brasil",
+            "website": "https://labmmol.iq.ufrj.br/mssm",
+            "skills": "Computational Intelligens, Computational Nanoteknologi, CUDA/GPU, C/C++, FoU, High Performance Computing, Intelligente Hybridsystemer, Maskinlæring, Matlab, Molekylærmodellering, Optimalisering, Python",
+            "experience": [
+                "Laboratoriet fokuserte på utvikling og anvendelse av molekylære modeller og computational metoder",
+                "Utvikling av unimodale og multimodale optimaliseringsalgoritmer basert på multi-gene genetisk programmering",
+                "Statistisk analyse av benchmark tester av optimaliseringsalgoritmer",
+                "Utvikling av matematiske normaliseringsteknikker og genetiske operatører for 'computational intelligence'-metoder",
+                "Bruk av computational intelligence (for eksempel evolusjonær computation, nevrale nettverk og fuzzy logic) og High Performance Computing for å akselerere simuleringer og beregninger utført innen molekylær modellering og molekylær dynamikk"
+            ]
+        },
+        {
+            "company": "LabSem/CETUC (PUC-Rio)",
+            "description": "Forsker",
+            "period": "01/2014 - 03/2018",
+            "location": "Rio de Janeiro, Brasil",
+            "website": "http://www.labsem.cetuc.puc-rio.br",
+            "skills": "Computational Intelligens, Computational Nanoteknologi, C/C++, FoU, Halvledere, Intelligente Hybridsystemer, Matlab, Nanoenheter, Optimalisering, Python",
+            "experience": [
+                "Laboratoriet fokuserte på grunnleggende og anvendt forskning innenfor området III-V halvledermaterialer for elektroniske og optoelektroniske enheter som brukes i telekommunikasjon",
+                "Strukturell optimalisering av en superlattice infrarød fotodetektor ved hjelp av evolusjonær computation. Algoritmene presenterer nye strukturer med sterkere oscillatorstyrker ved optimalisering av dimensjonene til den opprinnelige heterostrukturen (59,09% forbedring) og viste seg å være en god løsning for å unngå prøving og feiling (nåværende prosess) ved utformingen av nye infrarøde fotodetektorer basert på kvantebrønner",
+                "Bruk av computational intelligence (for eksempel evolusjonær computation, nevrale nettverk og fuzzy logic) for å akselerere simuleringer innen halvledere og nanoenheter"
+            ]
+        },
+        {
+            "company": "Nova Case Embalagens Especiais Ltda",
+            "description": "Konsulent",
+            "period": "07/2016 - 12/2017",
+            "location": "Rio de Janeiro, Brasil",
+            "website": "http://www.novacase.com.br",
+            "skills": "ERP, Programvareutvikling, Prosjektledelse, MVC, Ruby on Rails, SQL",
+            "experience": [
+                "Selskap som lager transportkasser for musikk, sport, tv, telekommunikasjon og militære markeder",
+                "Koordinering i utviklingen av Enterprise Resource Planning (ERP) i Ruby on Rails, integrering av administrative-, prosjekt-, design- og IT-områder. Blant de viktigste funksjonene i systemet er registrering av kunder og leverandører, budsjett, prosjekt, lager og prising. Koordinatorrollen for dette prosjektet var å lage grensesnittet mellom spesialister i området og utviklerne. I tillegg oversette selskapets aktiviteter til funksjonalitet og kontroller i systemet som sikrer persistens og sikkerhet for dataene, samt forenkle tilgangen og brukervennligheten"
+            ]
+        },
+        {
+            "company": "UNESCO",
+            "description": "Ad hoc konsulent",
+            "period": "07/2014 - 03/2015",
+            "location": "Rio de Janeiro, Brasil",
+            "website": "https://en.unesco.org",
+            "skills": "Computational Intelligens, Data Mining, Intelligente Hybridsystemer, Maskinlæring, Matlab, Perl, Python, Teknologisk Prospektering, Tekst Mining, VantagePoint",
+            "experience": [
+                "Kartlegging av nanoteknologi i Brasil - MCTI / UNESCO-prosjekt 914BRZ2018 / UNESCO. Undersøkelse av aspekter av dagens marked og fremtidspotensial basert på patenter og vitenskapelige kompetanseområder. Analyse av sektorer av elektronikk / nanoelektronikk og det internasjonale nanoteknologimarkedet for å identifisere potensielle applikasjoner som skal utforskes av Brasil",
+                "Teknologisk prospektering ved hjelp av VantagePoint og SQL, og utvikling av parsing skript i Python, Perl og Matlab for innsamling og behandling av ustrukturerte data fra akademiske og forretningsmessige nettsteder",
+                "Anvendelse av maskinlæring, data mining og tekst mining for å klassifisere patenter og vitenskapelige artikler i ulike faglige kompetanseområder",
+                "Utvikling av indikatorer med fuzzy logic og statistiske modeller for å relatere forskere til ulike vitenskapelige kompetanseområder. Forskere med Ph.D. og master har meget spesialisert forskning, og metoden kan utføres på ulike fagområder (for eksempel kan nanostrukturerte polymerer brukes i luftfart og helsetjenester). Disse intelligente indikatorene ble utviklet for å bestemme nivået på tilhørighet mellom forsker og vitenskapelig kompetanse, og viser at forskere har ulike nivåer av tilhørighet med flere områder samtidig",
+                "Nasjonale og internasjonale møter (Brasilia/Brasil og California/USA) for data- og informasjonsinnsamling med bedrifter, universiteter og Vitenskap-, teknologi- og innovasjonsministeriet (MCTI)"
+            ]
+        },
+        {
+            "company": "NanoBusiness Informação e Inteligência",
+            "description": "Konsulent",
+            "period": "09/2013 - 01/2015",
+            "location": "Rio de Janeiro, Brasil",
+            "website": "http://www.nanobusiness.com.br",
+            "skills": "Computational Intelligens, Data Mining, Fuzzy Systemer, Intelligente Hybridsystemer, Maskinlæring, Matlab, Startup Utvikling",
+            "experience": [
+                "Selskap som tilbyr tjenester av teknologisk intelligens og fysisk- og kjemisk karakterisering av materialer",
+                "Deltakelse i sentrale selskapsprosesser som vekststrategier, ny virksomhet, markedsføring, institusjonell presentasjon og møter med kapitalforetak i Silicon Valley",
+                "Utvikling av et intelligent hybridsystem for å håndtere og analysere kvaliteten i aktive farmasøytiske ingredienser i forhold til polymorfismen i apoteket. Maskinlæringsteknikker og fuzzy systemer ble brukt til å forbedre systemets nøyaktighet"
+            ]
+        },
+        {
+            "company": "ICA/DEE (PUC-Rio)",
+            "description": "Forsker",
+            "period": "01/2011 - 02/2013",
+            "location": "Rio de Janeiro, Brasil",
+            "website": "http://www.academico.ica.ele.puc-rio.br",
+            "skills": "Computational Intelligens, C#, Data Mining, FoU, Intelligente Hybridsystemer, Maskinlæring, Matlab, Optimalisering, Programvareutvikling, SQL",
+            "experience": [
+                "Forskningslaboratorium dedikert til utvikling av intelligente beslutningsstøttesystemer for olje- og gass- og energiselskaper",
+                "Utvikling av et system som er i stand til å identifisere den mulige misbruken av kundene til energidistributør Light SA, ved hjelp av data mining-teknikker basert på analyse av kadastral informasjon, frekvens av mislighold, tid som kunde, fakturering av elektrisitet og annen eksogen informasjon finnes i databasen. Metoden er basert på to faser: (i) kategorisering for å gruppere forbrukerenheter med mønstre av tilsvarende økonomiske aktiviteter for store klienter og offentlige myndigheter som vurderer i tillegg til de økonomiske aktivitetene, de administrative karakteristika og deres type (kommunale, statslige og føderale) og (ii) klassifisering for å identifisere endringer i kundeoppføringsprofilen, og sette opp muligheten for mislighold",
+                "Teknisk analyse av nye prosjekter som bruker computational intelligence for olje- og gass- og energisektoren"
+            ]
+        },
+        {
+            "company": "Banco BBM",
+            "description": "Intern",
+            "period": "12/2007 - 06/2009",
+            "location": "Rio de Janeiro, Brasil",
+            "website": "https://www.bocombbm.com",
+            "skills": "CSS, HTML, Programvareutvikling, SQL, VB, .NET",
+            "experience": [
+                "Brasils eldste privateide finansgruppe",
+                "Utvikling og vedlikehold av systemer av fond, kasse, operasjonell kontroll og bedriftssystemer i banken. Ofte i kontakt med ulike områder av IT første- (støtte og infrastruktur), andre- (datahåndtering, nettverk og sikkerhet) og tredje nivå (andre områder av utvikling og design) av kundeservice samt andre forretningsområder i banken",
+                "Utvikling av SQL-spørringer og SQL-script for utvikling, vedlikehold og korrigering av en kompleks database med flere forskjellige instanser og baser integrert med hundrevis av forskjellige banksystemer"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "title": "Ph.D., Computational Intelligens - Optimalisering og Maskinlæring",
+            "location": "PUC-Rio, Rio de Janeiro, Brasil",
+            "period": "2014 - 2017"
+        },
+        {
+            "title": "M.Eng., Computational Intelligens - Optimalisering og Maskinlæring",
+            "location": "PUC-Rio, Rio de Janeiro, Brasil",
+            "period": "2010 - 2013"
+        },
+        {
+            "title": "Ingeniør graden, Datateknikk",
+            "location": "PUC-Rio, Rio de Janeiro, Brasil",
+            "period": "2005 - 2010"
+        }
+    ]
+}

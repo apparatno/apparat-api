@@ -1,0 +1,173 @@
+{
+  "candidate": {
+    "name": "Håkon Nilsen",
+    "title": "Senior consultant & CEO",
+    "mail": "hakon.nilsen@apparat.no",
+    "phone": "97 97 97 57",
+    "picture": "/profilbilder/hakon-nilsen.jpeg",
+    "location": "Bergen",
+    "website": "www.apparat.no",
+    "linkedin": "linkedin.com/in/hnilsen/",
+    "github": "github.com/hnilsen",
+    "skills": [
+      "C#",
+      "Java",
+      ".NET",
+      "Kotlin",
+      "ASP.NET MVC",
+      "ASP.NET WebAPI",
+      "JavaScript",
+      "React",
+      "SASS",
+      "NodeJS",
+      "IIS",
+      "Visual Studio",
+      "MS-SQL",
+      "RavenDB",
+      "ExpressJS",
+      "Git",
+      "TeamCity",
+      "Android",
+      "AndroidX",
+      "iOS",
+      "xcode",
+      "Android Studio",
+      "AppCode",
+      "Cordova",
+      "TomCat",
+      "Jetty"
+    ],
+    "languages": [
+      {
+        "lang": "Norsk",
+        "rank": 5
+      },
+      {
+        "lang": "Engelsk",
+        "rank": 5
+      }
+    ],
+    "hobbies": [
+      "Programmering",
+      "Birøkting",
+      "Seiling",
+      "Jakt",
+      "Matlaging"
+    ]
+  },
+  "work": [
+    {
+      "company": "Konsulent: Sparebanken Vest",
+      "description": "Fungerende CTO X-banken",
+      "period": "08/2018 - ",
+      "location": "Bergen, Norge",
+      "website": "https://spv.no",
+      "skills": "Native Android og iOS, Swift, Kotlin, Android Jetpack, xcode, AppCode, Android Studio, Docker, Kubernetes",
+      "experience": [
+        "Ansvar for teknisk plattform i opprettelsen av ny bank for Sparebanken Vest. Bankens navn er ukjent, og går under kodenavn X-banken. Håkon sitt ansvar strekker seg til det som normalt er ansvaret til en CTO, og består i å sette sammen team, avgjøre arbeidsmetode og gjennomføre ansettelser",
+        "Ansvar for å bistå til at den nye X-banken har alt den behøver i form av banksystemer, debet- og kredittkort, kundeforhold osv"
+      ]
+    },
+    {
+      "company": "Konsulent: Sparebanken Vest",
+      "description": "Innovatør",
+      "period": "03/2018 - 08/2018",
+      "location": "Bergen, Norge",
+      "website": "https://spv.no",
+      "skills": ".NET, C#, JavaScript, ASP.NET WebAPI, Android, iOS, Cordova",
+      "experience": [
+        "Ledet Sparebanken Vests nye innovasjonssatsing som både utvikler og strategisk partner",
+        "Arkitekt bak Norges første bank med push-varsler til kundene, hvor Håkon jobbet strategisk mot SPV sin store IT-avdeling for å sette sammen brikkene som må til for å løse en ganske stor oppgave for innrulling av devices, lagring og utvikle i appene. Håkon leverte fungerende kode til de utførende avdelingene på IT som fin-kodet det og prodsatte",
+        "Arbeidet målrettet mot å skape fremtidens transaksjonsvisning for Sparebanken Vest gjennom utstrakt bruk av APIer og filtre. En fungerende prototype ble demonstrert til konsernledelsen i august 2018"
+      ]
+    },
+    {
+      "company": "Konsulent: Monobank",
+      "description": "Mobilutvikler",
+      "period": "08/2017 - 03/2018",
+      "location": "Bergen, Norge",
+      "website": "https://monobank.no",
+      "skills": "Native Android og iOS, Kotlin, Swift, VSTS, Bitrise",
+      "experience": [
+        "Leid inn som mobilutvikler for deres nye kredittkortapp Mono Pay",
+        "Arbeidet parallelt med native Android og iOS",
+        "Ansvar for utvikling av en Native-JavaScript bridge",
+        "Utvikling av kryptoløsning mellom native og backend",
+        "Native-views for innlogging og aktivering"
+      ]
+    },
+    {
+      "company": "Konsulent: Sparebanken Vest",
+      "description": "Utvikler",
+      "period": "01/2013 - 08/2017",
+      "location": "Bergen, Norge",
+      "website": "https://spv.no",
+      "skills": ".NET, C#, JavaScript, React, Redux, ASP.NET WebAPI, WCF, Android, iOS, Cordova, Dojo",
+      "experience": [
+        "Jobbet utelukkende med mobilbanken til Sparebanken Vest",
+        "Spesielt ansvar for hygienen til appene til banken som kjører på et spesielt oppsett av Cordova",
+        "Ansvar for mange av bankens nye løsninger i denne perioden",
+        "Utviklet en cacheløsning (cachier.js) som bidro til stabilitet og hurtig browsing i mobilbankappen til SPV",
+        "Hatt en sterkt medvirkende rolle til bankens nye nett- og mobilbank, den såkalte digitalbanken",
+        "Bidratt inn som eneste tekniske medlem i konseptgruppen i SPV hvor konsepter tas fra idèfasen og bearbeidet til ferdige konsepter som kunne tas rett inn i utviklingsarbeidet"
+      ]
+    },
+    {
+      "company": "Konsulent: Nordea Liv",
+      "description": "Utvikler",
+      "period": "12/2011 - 12/2012",
+      "location": "Bergen, Norge",
+      "website": "https://nordea.no",
+      "skills": "Java, HTML, JavaScript, CSS, Jetty",
+      "experience": [
+        "Arbeidet på system for fondsforvaltning",
+        "Prosjektkoordinator siste del av oppdraget"
+      ]
+    },
+    {
+      "company": "Konsulent: DnbNOR",
+      "description": "Utvikler",
+      "period": "04/2010 - 11/2011",
+      "location": "Bergen, Norge",
+      "website": "https://dnb.no",
+      "skills": "Java, HTML, JavaScript, CSS, Jetty",
+      "experience": [
+        "Frontendutvikler på DnBNOR sin nye nettbank for privatmarkedet. Står i forhold til DnBNOR sin overtagelse av alle Postbanken sine kunder som på det tidspunktet ble flyttet inn til DnBNOR",
+        "Eneste utvikler av DNB sin aller første mobilbank"
+      ]
+    },
+    {
+      "company": "Apparat",
+      "description": "CEO",
+      "period": "08/2017 - ",
+      "location": "Bergen, Norge",
+      "website": "https://apparat.no",
+      "skills": "Utviklingsoppgaver, servant leadership, personalledelse",
+      "experience": [
+        "Apparat ble startet etter mange år som selvstendig næringsdrivende ut av eget selskap. Apparat er et annerledes IT-selskap som verdsetter kunnskap, åpenhet, nyskapning og deling.",
+        "Hovedmål med Håkons virke er å stå til tjeneste for de ansatte i Apparat",
+        "Fungerer som utøvende konsulent ut mot kunder i en fase frem til det blir mest aktuelt å være leder på fulltid"
+      ]
+    },
+    {
+      "company": "EVRY",
+      "description": "Sjefskonsulent",
+      "period": "04/2010 - 05/2014",
+      "location": "Bergen, Norge",
+      "website": "https://evry.no",
+      "skills": "Utøvende konsulent innenfor en rekke utviklingsregimer",
+      "experience": [
+        "Ansatt som seniorkonsulent, senere sjefskonsulent, med fokus på frontend-utvikling og mobil spesielt",
+        "Hovedansvar for Center of Excellence i EVRY innenfor mobilområdet",
+        "Deltakende i flere prosjekter fra KL-gruppen"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Informatikk",
+      "location": "Universitetet i Bergen",
+      "period": "2004-2006"
+    }
+  ]
+}

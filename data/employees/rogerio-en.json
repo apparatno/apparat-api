@@ -1,0 +1,200 @@
+{
+  "candidate": {
+    "name": "Rogério C. B. L. Póvoa",
+    "picture": "/profilbilder/rogerio-povoa.jpg",
+    "title": "Data Scientist - Optimization and Machine Learning",
+    "mail": "rogerio.povoa@apparat.no",
+    "location": "Bergen",
+    "website": "www.apparat.no",
+    "linkedin": "linkedin.com/in/rogeriopovoa",
+    "skills": [
+      "Computational Intelligence",
+      "Computational Nanotechnology",
+      "CUDA/GPU",
+      "C/C++/C#",
+      "Data Mining",
+      "Deep Learning",
+	  "Go",
+	  "Google Cloud Platform",
+      "High Performance Computing",
+      "Intelligent Hybrid Systems",
+      "Julia",
+      "Machine Learning",
+      "Matlab",
+      "MVC",
+      "Optimization",
+      "Project Management",
+      "Python",
+      "R&D",
+      "Software Development",
+      "SQL",
+      "Technological Prospecting",
+	  "TensorFlow"
+    ],
+    "languages": [
+      {
+        "lang": "English",
+        "rank": 5
+      },
+      {
+        "lang": "Portuguese",
+        "rank": 5
+      },
+      {
+        "lang": "Norwegian",
+        "rank": 1
+      }
+    ],
+    "hobbies": [
+      "Krav Maga",
+      "Technology",
+      "Travel"
+    ]
+  },
+  "work": [
+    {
+      "company": "Apparat AS",
+      "description": "Data Scientist",
+      "period": "09/2018 - present",
+      "location": "Bergen, Norway",
+      "website": "https://apparat.no",
+      "skills": "Computational Intelligence, Optimization, Machine Learning, Deep Learning, Python, TensorFlow, Go, Google Cloud Platform",
+      "experience": [
+        "Screen Project - This project aims to develop an Artificial Intelligence solution to visually detect and recognize the faces of all Apparat-employees. From this solution, it will be possible to develop several interactive solutions such as security, optimization of agendas and customization of an environment.",
+		"The solution is based on TensorFlow where I have implemented algorithms for detection of individuals with a level of accuracy of around 95-98%.",
+		"APIs are developed for easy implementation of the learning engine, as well as asking for results based on given criteria for the solution. This is largely implemented in Go on Google Cloud Platform."
+      ]
+    },
+	{
+      "company": "MSSM/LabMMol (URFJ)",
+      "description": "Researcher",
+      "period": "01/2014 - 03/2018",
+      "location": "Rio de Janeiro, Brazil",
+      "website": "https://labmmol.iq.ufrj.br/mssm",
+      "skills": "Computational Intelligence, Computational Nanotechnology, CUDA/GPU, C/C++, High Performance Computing, Intelligent Hybrid Systems, Machine Learning, Matlab, Molecular Modeling, Python, Optimization, R&D",
+      "experience": [
+        "Laboratory focused on the development and application of molecular models and computational methods.",
+        "Development of unimodal and multimodal optimization algorithms based on multi-gene genetic programming.",
+        "Statistical analysis of benchmark tests of optimization algorithms",
+        "Development of mathematical normalization techniques and genetic operators for computational intelligence methods.",
+        "Use of computational intelligence (e.g. evolutionary computation, neural networks and fuzzy logic) and High Performance Computing to accelerate simulations and calculations performed in the area of molecular modeling and molecular dynamic."
+      ]
+    },
+    {
+      "company": "LabSem/CETUC (PUC-Rio)",
+      "description": "Researcher",
+      "period": "01/2014 - 03/2018",
+      "location": "Rio de Janeiro, Brazil",
+      "website": "http://www.labsem.cetuc.puc-rio.br",
+      "skills": "Computational Intelligence, Computational Nanotechnology, C/C++, Intelligent Hybrid Systems, Matlab, Nanodevices, Optimization, Python, R&D, Semiconductors",
+      "experience": [
+        "Laboratory focused on basic and applied research in the area of III-V semiconductor materials for electronic and optoelectronic devices used in telecommunications.",
+        "Structural optimization of a superlattice infrared photodetector by means of evolutionary computation methods. The algorithms present new structures with stronger oscillator strengths by an optimization of the dimensions of the initial heterostructure (59.09% improvement) and showed to be a good solution to avoid trial and error process (current process) on the designing new infrared photodetectors based on quantum wells.",
+        "Use of computational intelligence (e.g. evolutionary computation, neural networks and fuzzy logic) to accelerate simulations in the area of semiconductors and nanodevices."
+      ]
+    },
+    {
+      "company": "Nova Case Embalagens Especiais Ltda",
+      "description": "Consultant",
+      "period": "07/2016 - 12/2017",
+      "location": "Rio de Janeiro, Brazil",
+      "website": "http://www.novacase.com.br",
+      "skills": "ERP, Project Management, Software Development, MVC, Ruby on Rails, SQL",
+      "experience": [
+        "Case company for music, sports, tv, telecommunications and military markets.",
+        "Coordination in the development of a enterprise resource planning (ERP) in Ruby on Rails, integrating the administrative, project, designer and IT areas. Among the main functionalities of the system are the registering of customers and suppliers, budget, project, inventory and pricing. The role of the coordination of this project was to make the interface between the specialists of the area and the programmers, translating the activities of the company into functionalities and controls within the system guaranteeing the persistence and security of the data as well as its easy access and usability."
+      ]
+    },
+    {
+      "company": "UNESCO",
+      "description": "Ad Hoc Consultant",
+      "period": "07/2014 - 03/2015",
+      "location": "Rio de Janeiro, Brazil",
+      "website": "https://en.unesco.org",
+      "skills": "Computational Intelligence, Data Mining, Intelligent Hybrid Systems, Machine Learning, Matlab, Perl, Python, Technological Prospecting, Text Mining, VantagePoint",
+      "experience": [
+        "Mapping of Nanotechnology in Brazil – MCTI/UNESCO Project 914BRZ2018/UNESCO. Study including aspects of the current market and future potential based on patents and scientific competences. Analysis of the sectors of electronics/nanoelectronics and the international nanotechnology market in order to identify the potential applications to be explored by Brazil.",
+        "Technological prospecting using VantagePoint and SQL, and developing parsing scripts in Python, Perl and Matlab for collecting and processing unstructured data from academic and business websites.",
+        "Application of machine learning, data mining and text mining to classify patents and scientific articles in different scientific competences.",
+        "Development of indicators with fuzzy and statistical models to relate researchers to different scientific competences. As researchers with Ph.D. and masters have very specialized research, applications can be carried out on different scientific competences (e.g. nanostructured polymers can be applied in aerospace and healthcare). These intelligent indicators were developed to determine the level of affinity researcher/scientific competence, showing that researchers have different levels of affinities with several areas at the same time.",
+        "National and international meetings (Brasilia/BR and California/US) for data and information collection with companies, universities and the Ministry of Science, Technology and Innovation (MCTI)."
+      ]
+    },
+    {
+      "company": "NanoBusiness Informação e Inteligência",
+      "description": "Consultant",
+      "period": "09/2013 - 01/2015",
+      "location": "Rio de Janeiro, Brazil",
+      "website": "http://www.nanobusiness.com.br",
+      "skills": "Computational Intelligence, Data Mining, Fuzzy Systems, Intelligent Hybrid Systems, Machine Learning, Matlab, Startup Development",
+      "experience": [
+        "Company that offers services of technological intelligence and physical and chemical characterization of materials.",
+        "Participation of key company processes such as growth strategies, new business, marketing, institutional presentation and meetings with capital ventures in the Silicon Valley.",
+        "Development of intelligent hybrid sistem to manage and analyze active pharmaceutical ingredient's quality considering the polymorphism in pharmacy. Machine learning techniques and fuzzy systems were used to improve the accuracy of the system."
+      ]
+    },
+    {
+      "company": "ICA/DEE (PUC-Rio)",
+      "description": "Researcher",
+      "period": "01/2011 - 02/2013",
+      "location": "Rio de Janeiro, Brazil",
+      "website": "http://www.academico.ica.ele.puc-rio.br",
+      "skills": "Computational Intelligence, C#, Data Mining, Intelligent Hybrid Systems, Machine Learning, Matlab, Optimization, R&D, Software Development, SQL",
+      "experience": [
+        "Research laboratory dedicated to the development of intelligent decision support systems for oil & gas and energy companies.",
+        "Development of a system capable of identifying the possible delinquency of the customers of Light SA energy distributor, using data mining techniques based on the analysis of the cadastral information, frequency of default, time as a customer, billing electricity, and other exogenous information present in the database. The methodology is based on two stages: (i) categorization to group consumer units with patterns of similar economic activities for the case of large clients and for clients of public authorities standards that consider besides the economic activities, the administrative characteristics and their type (municipal, state and federal); and (ii) classification to identify changes in the behavior profile of customers, setting up the possibility of default.",
+        "Technical analysis of new projects using computational intelligence for the oil & gas and energy sector."
+      ]
+    },
+    {
+      "company": "Banco BBM",
+      "description": "Intern",
+      "period": "12/2007 - 06/2009",
+      "location": "Rio de Janeiro, Brazil",
+      "website": "https://www.bocombbm.com",
+      "skills": "CSS, HTML, Software Development, SQL, VB, .NET",
+      "experience": [
+        "Brazil's oldest privately owned financial group.",
+        "Development and maintenance of systems of funds, treasury, operational control and corporate systems of the bank. Often in contact with different areas of IT first- (support and infrastructure), second- (data management, networks and security) and third-level (other areas of development and design) of customer service as well as other business areas of the bank.",
+        "Development of queries, triggers and SQL scripts for development, maintenance and correction of a complex database with several different instances and bases integrated with hundreds different bank systems."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Ph.D., Computational Intelligence - Optimization and Machine Learning",
+      "location": "PUC-Rio, Rio de Janeiro, Brazil",
+      "period": "2014 - 2017"
+    },
+    {
+      "title": "M.Eng., Computational Intelligence - Optimization and Machine Learning",
+      "location": "PUC-Rio, Rio de Janeiro, Brazil",
+      "period": "2010 - 2013"
+    },
+    {
+      "title": "Engineer's degree, Computer Engineering",
+      "location": "PUC-Rio, Rio de Janeiro, Brazil",
+      "period": "2005 - 2010"
+    }
+  ],
+  "publication": [
+    {
+      "authors": "Povoa RCBL, Koshiyama AS, Dias DM, Souza PL, Horta BA.",
+      "title": "Multi-Modal Optimization by Multi-Gene Genetic Programming.",
+      "presented": "In Proceedings. 2018 IEEE Congress on Evolutionary Computation (CEC), Rio de Janeiro, Brazil, 2018.",
+      "description": "The work presents a preliminary analysis of a new method using multi-gene genetic programming to multi-modal numerical optimization. The new algorithm uses some niching techniques based on the clear procedure to maintain the population diversity, in order to perform a multivariate mapping among initial guesses to optimal parameters for a system. It was used a multi-modal benchmark set with different characteristics and difficulty levels to evaluate this new algorithm. Statistical analysis suggested that this new multi-modal method using multi-gene genetic programming can be used for problems that requires more than a single solution."
+    },
+    {
+      "authors": "Lazo JGL, Póvoa RCBL, Villalobos CEM, Bastos ALP.",
+      "title": "Identificação de Inadimplência para o Mercado de Grandes Clientes e Poder Público.",
+      "presented": "Congresso de Inovação Tecnológica em Energia Elétrica CITENEL, Brazil, 2013.",
+      "description": "This work presents the development of a methodology capable of identifying the possible delinquency of the customers of Light SA energy distributor, using data mining techniques based on the analysis of the cadastral information, frequency of default, time that is a customer, billing electricity, and other exogenous information present in the database. The methodology is based on two stages: (i) categorization to group consumer units with patterns of similar economic activities for the case of large clients and for clients of public authorities standards that consider besides the economic activities, the administrative characteristics and their type (municipal, state and federal); and (ii) classification to identify changes in the behavior profile of customers, setting up the possibility of default."
+    },
+    {
+      "authors": "Póvoa RCBL, Pacheco, MAC.",
+      "title": "Analysis of the Correlation between Stokes Parameters, DGD and PMD.",
+      "presented": "Applied  Optics Symposium, Rio de Janeiro, Brazil, 2011.",
+      "description": "This work presents a correlation analysis of the parameters present in the optical systems of classical and quantum communication through genetic programming. The parameters correlated were: (i) stokes parameters; (ii) differential group delay; and (iii) polarization mode dispersion."
+    }
+  ]
+}

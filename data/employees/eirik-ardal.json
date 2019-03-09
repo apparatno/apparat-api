@@ -1,0 +1,161 @@
+{
+  "candidate": {
+    "name": "Eirik Årdal",
+    "title": "Seniorkonsulent",
+    "mail": "eirik.ardal@apparat.no",
+    "phone": "992 99 931",
+    "picture": "/profilbilder/eirik-ardal.jpg",
+    "location": "Bergen",
+    "website": "www.apparat.no",
+    "linkedin": "linkedin.com/in/eirik-ardal",
+    "github": "github.com/eaardal",
+    "skills": [
+      "C#",
+      ".NET",
+      "ASP.NET MVC",
+      "ASP.NET WebAPI",
+      "JavaScript",
+      "React",
+      "Redux",
+      "SASS",
+      "CssInJs",
+      "NodeJS",
+      "Silverlight RIA Services",
+      "WCF",
+      "WPF",
+      "Windows Forms",
+      "ASP.NET WebForms",
+      "IIS",
+      "F#",
+      "Visual Studio",
+      "Akka.NET",
+      "MS-SQL",
+      "Oracle SQL",
+      "Elasticsearch",
+      "RavenDB",
+      "ExpressJS",
+      "TypeScript",
+      "Git",
+      "TeamCity",
+      "Octopus Deploy",
+      "(Elixir)",
+      "(Elm)",
+      "(Aurelia)",
+      "(Docker)"
+    ],
+    "languages": [
+      {
+        "lang": "Norsk",
+        "rank": 5
+      },
+      {
+        "lang": "Engelsk",
+        "rank": 5
+      }
+    ],
+    "hobbies": [
+      "Programmering",
+      "Fotografering",
+      "Trening",
+      "Matlaging (og spising!)"
+    ]
+  },
+  "work": [
+    {
+      "company": "Sparebanken Vest",
+      "description": "Utvikler",
+      "period": "04/2016 - ",
+      "location": "Bergen, Norge",
+      "website": "https://spv.no",
+      "skills": ".NET, C#, JavaScript, React, Redux, ASP.NET WebAPI, WCF",
+      "experience": [
+        "Laget bankløsninger basert på React, Redux, og moderne JavaScript som frontend og et .NET-basert REST API som backend",
+        "Jobbet svært mye med JavaScript og moderne, open-source frontend teknologier, men også med backend i form av WCF tjenester og Windows Servicer",
+        "Også jobbet en del med oppsett av bygg og deploy-systemer stort sett i form av TeamCity, Octopus Deploy, og noe ConDep",
+        "Eirik har også bidratt med å fokusere på kodekvalitet og å innføre beste praksiser og stilveiledninger på kryss av flere utviklingsteam for å sikre robuste leveranser med god kvalitet og testdekning",
+        "Arbeidsmetodikken her har vært en løs variant av Kanban. Eirik var teamlead for et utviklingsteam i en periode"
+      ]
+    },
+    {
+      "company": "Equinor",
+      "description": "Prosjekt: WellCom",
+      "period": "08/2014 - 04/2016",
+      "location": "Bergen, Norge",
+      "website": "https://equinor.no",
+      "skills": ".NET, C#, WCF, MS-SQL, JavaScript, Angular 1, SASS",
+      "experience": [
+        "WellCom er en dataportal for data og informasjon om boring og brønn. Her kan brukere søke og bla i data og dokumenter flere år tilbake",
+        "Eirik var utvikler og delvis løsningsarkitekt på prosjektet",
+        "Prosjektet var en ASP.NET WebAPI backend og en Angular 1/JavaScript frontend",
+        "Siden største del av appen var i JavaScript var det høyt fokus på enhetstesting og kvalitetssikring av JavaScript kode",
+        "Høstet mye erfaring om JavaScript og testing av JavaScript kode, samt strukturering og skalering av store JavaScript applikasjoner",
+        "Arbeidsmetodikken var Scrum etter boken"
+      ]
+    },
+    {
+      "company": "Nasjonalbiblioteket",
+      "description": "Utvikler",
+      "period": "02/2014 - 08/2014",
+      "location": "Bergen, Norge",
+      "website": "https://www.nb.no/",
+      "skills": "Java, Spring, Maven, Linux, Event Sourcing",
+      "experience": [
+        "Prosjektet var en portal for import og logging av arkivering av aviser og tidsskrifter",
+        "Eirik var utvikler og jobbet med Java, Knockout, og Angular 1",
+        "Applikasjonen er bygd etter Event Sourcing arkitektur i Java og Akka"
+      ]
+    },
+
+    {
+      "company": "Equinor",
+      "description": "Prosjekt: MegSIM",
+      "period": "08/2013 - 07/2014",
+      "location": "Bergen, Norge",
+      "website": "https://equinor.no",
+      "skills": ".NET, C#, Silverlight RIA Services, MS-SQL, Python, IronPython",
+      "experience": [
+        "MegSIM er et overvåkningsverktøy for å se nivå av kjemikalier, stoff og væsker i oljerør på havbunnen for å kunne bevare rørene på best mulig måte over lang tid",
+        "Applikasjonen er en web-portal i Silverlight der hovedfokuset er administrasjon av komplekse grafer som viser nivå på forskjellige målinger",
+        "Eirik var utvikler på teamet som hadde ansvar for å tilpasse MegSIM til bruk på en ny oljeplatform",
+        "Kalkuleringsmodellen er skrevet i Python og Eirik var ansvarlig for å integrere denne med en Windows Service i C# som skulle kalle denne Python jobben via IronPython",
+        "Prosjektet involverte en fullstack Silverlight løsning med GUI komponenter fra Telerik"
+      ]
+    },
+    {
+      "company": "Equinor",
+      "description": "Prosjekt: SponsorWeb",
+      "period": "02/2012 - 04/2016",
+      "location": "Bergen, Norge",
+      "website": "https://equinor.no",
+      "skills": ".NET, C#, ASP.NET WebForms, Oracle SQL, Toad for Oracle",
+      "experience": [
+        "SponsorWeb er en adminportal for håndtering av søknader om sponsorat sendt inn til Equinor via equinor.no. Applikasjonen inneholdt både selve skjemaet brukeren fyllte ut, samt administrasjonssidene som saksbehandlerene i Equinor benyttet i bakkant.",
+        "Eirik var eneste utvikler og hadde utover ansvar om å være kontaktperson for saksbehandlerne i Equinor om videreutvikling og vedlikehold av applikasjonen",
+        "Prosjektet var en ren ASP.NET WebForms side med typiske alderssymptomer. Eirik fokuserte en del på å innføre en mer robust Model-View-Presenter arkitektur i applikasjonen, samt gjøre den testbar der det lot seg gjøre",
+        "Mye av arbeidet var å forbedre den eksisterende funksjonaliteten og implementere nye features etter diskusjon og planlegging med kontaktperson i Equinor",
+        "Lærte mye om ASP.NET, IIS, databaesmigrering og Oracle SQL"
+      ]
+    },
+    {
+      "company": "Equinor",
+      "description": "Diverse applikasjoner",
+      "period": "02/2012 - 06/2016",
+      "location": "Bergen, Norge",
+      "website": "https://equinor.no",
+      "skills": ".NET, C#, Windows Forms, WPF, ASP.NET, Windows Server, Silverlight, Oracle SQL, Toad for Oracle",
+      "experience": [
+        "Teamet Eirik jobbet i hadde vedlikeholdsansvar for en håndfull mindre applikasjoner og databaser",
+        "Utviklere jobbet selvstendig og jobbet med alt som dukket opp fra frontend til backend, databaser, webtjenester, m.m.",
+        "Av betydning er blant annet applikasjonen CargoTracking som tradere i Equinor bruker for å logge skipslaster rundt om på jorden, dvs fra og til hvilken havn skipet reiser og hva lasten er, blant mye annet. Dette er en skrivebordsapplikasjon i Windows Forms med en Oracle database. Utover vanlig vedlikehold lagde Eirik en ny modul i CargoTracking i rammeverket Windows Presentation Foundation (WPF) som viste statistikk og grafer for de innsamlede dataene. Vedlikehold, utvidelse, og migrering av Oracle databasen var også en sentral, gjennomgående oppgave",
+        "Høstet mye erfaring innen hele Microsoft og .NET plattformen, både for web og skrivebordsprogrammer"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "IT-Støttet Bedriftsutvikling",
+      "location": "Høgskolen i Sør-Trøndelag",
+      "period": "2008-2011; Bachelor 3 år"
+    }
+  ]
+}

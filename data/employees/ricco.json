@@ -1,0 +1,148 @@
+{
+  "candidate": {
+    "name": "Ricco Førgaard",
+    "title": "Seniorkonsulent",
+    "mail": "ricco@apparat.no",
+    "phone": "40 60 40 88",
+    "picture": "/profilbilder/ricco2.jpg",
+    "location": "Bergen",
+    "website": "www.apparat.no",
+    "linkedin": "linkedin.com/in/ricco/",
+    "github": "github.com/fiskeben",
+    "skills": [
+      "Go",
+      "AWS",
+      "Lambda",
+      "Docker",
+      "Kubernetes",
+      "Helm",
+      "Terraform",
+      "Ansible",
+      "Continuous delivery",
+      "Git",
+      "CircleCI",
+      "Java",
+      "JavaScript",
+      "Dropwizard",
+      "Spring Boot",
+      "IntelliJ",
+      "Tomcat",
+      "Jetty",
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "React",
+      "NodeJS",
+      "ExpressJS",
+      "Sinon"
+    ],
+    "languages": [
+      {
+        "lang": "Norsk",
+        "rank": 5
+      },
+      {
+        "lang": "Dansk",
+        "rank": 5
+      },
+      {
+        "lang": "Engelsk",
+        "rank": 5
+      }
+    ],
+    "hobbies": [
+      "Programmering",
+      "Ølbrygging",
+      "IoT, Arduino, datainnsamling, hjemmeautomasjon",
+      "Spiller gitar",
+      "Pizzabaking"
+    ]
+  },
+  "work": [
+    {
+      "company": "Vimond Media Solutions",
+      "description": "DevOps tech lead",
+      "period": "06/2018 - ",
+      "location": "Bergen, Norge",
+      "website": "https://vimond.com",
+      "skills": "Kubernetes, Go, AWS, automasjon, deployment",
+      "experience": [
+        "Ledet Vimonds migrering til Kubernetes som utvikler og team lead",
+        "Implementerte ny deployment pipeline med Go og ulike AWS produkter, blant annet Lambda, Stepfunctions, Kinesis og S3"
+      ]
+    },
+    {
+      "company": "Vimond Media Solutions",
+      "description": "Utvikler",
+      "period": "01/2014 - 06/2018",
+      "location": "Bergen, Norge",
+      "website": "https://vimond.com",
+      "skills": "Java, Tomcat, Dropwizard framework, Oracle, JavaScript, Ruby on Rails",
+      "experience": [
+        "Jobbet som utvikler på ulike prosjekter og produkter",
+        "Implementerte mikrotjenester i Java med Dropwizard og Spring Boot og i JavaScript med ExpressJS",
+        "Vedlikeholdt eksisterende tjenester",
+        "Deltok i planlegging og design av nye features"
+      ]
+    },
+    {
+      "company": "Norsk samfunnsvitenskapelig datatjeneste",
+      "description": "Seniorrådgiver",
+      "period": "11/2007 - 01/2014",
+      "location": "Bergen, Norge",
+      "website": "https://nsd.no",
+      "skills": "Java, Apache, Velocity, JavaScript, HTML, CSS, MySQL",
+      "experience": [
+        "Jobbet med vedlikehold og utvikling av frontend på NSDs Nesstar",
+        "Implementerte visualisering av statistiske data"
+      ]
+    },
+    {
+      "company": "Combitel Networks",
+      "description": "Utvikler",
+      "period": "05/2006 - 11/2007",
+      "location": "Bergen, Norge",
+      "website": "https://combitel.no",
+      "skills": "Ruby, PostgreSQL",
+      "experience": [
+        "Vedlikeholdt og videreutviklet internt system til håndtering av kunder og produkter",
+        "Jobbet med integrasjoner mot eksterne leverandører av telefoni- og datatjenester"
+      ]
+    },
+    {
+      "company": "KMD A/S",
+      "description": "Utvikler",
+      "period": "03/2005 - 02/2006",
+      "location": "Aalborg, Danmark",
+      "website": "https://kmd.dk",
+      "skills": "ASP, VB Script, HTML, JavaScript, CSS, XML, XSLT",
+      "experience": [
+        "Arbeidet på system for innkjøp i offentlige institusjoner i Danmark"
+      ]
+    },
+    {
+      "company": "101 Systems",
+      "description": "Utvikler",
+      "period": "04/2004 - 11/2004",
+      "location": "Frederikshavn, Danmark",
+      "website": "",
+      "skills": "PHP, HTML, JavaScript, CSS, Linux",
+      "experience": [
+        "Designet og implementerte nettsider for mindre lokale bedrifter",
+        "Vedlikeholdt web- og databaseservere basert på Linux"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor of Science",
+      "location": "Aalborg Universitet",
+      "period": "2002-2004"
+    },
+    {
+      "title": "Datamatiker",
+      "location": "Nordjyllands Erhvervsakademi (Aalborg)",
+      "period": "2000-2002"
+    }
+  ]
+}

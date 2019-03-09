@@ -1,0 +1,147 @@
+{
+    "candidate": {
+      "name": "Torbjørn Årdal",
+      "title": "Seniorkonsulent",
+      "mail": "torbjorn.ardal@apparat.no",
+      "phone": "467 62 705",
+      "picture": "/profilbilder/torbjorn-ardal.jpg",
+      "location": "Bergen",
+      "website": "www.apparat.no",
+      "github": "github.com/taardal",
+      "skills": [
+        "Java",
+        "Spring",
+        "Kotlin",
+        "Android",
+        "Swift",
+        "iOS",
+        "React Native",  
+        "C#",
+        ".NET",
+        "JavaScript",
+        "Angular",
+        "React",
+        "Redux",
+        "Git",
+        "Maven",
+        "Gradle",
+        "MySQL",
+        "Wordpress",
+        "Java Server Pages",
+        "Escenic 5"
+      ],
+      "languages": [
+        {
+          "lang": "Norsk",
+          "rank": 5
+        },
+        {
+          "lang": "Engelsk",
+          "rank": 5
+        }
+      ],
+      "hobbies": [
+        "Programmering",
+        "Fotball",
+        "Spill",
+        "Gitar"
+      ]
+    },
+    "work": [
+      {
+        "company": "Equinor",
+        "description": "Prosjekt: Autoscope",
+        "period": "10/2018 - 12/2018",
+        "location": "Bergen, Norge",
+        "website": "https://www.equinor.com/",
+        "skills": "C#, .NET",
+        "experience": [
+          "Prototype for Equinor som validerer, oppretter og/eller oppdaterer intern data basert på innkommende meldinger fra et meldingssystem.",
+          "Torbjørn har deltatt i planlegging, estimering og utvikling av applikasjonen."
+        ]
+      },
+      {
+        "company": "Hafslund",
+        "description": "Prosjekt: Hafslund Nett",
+        "period": "05/2017 - 01/2018",
+        "location": "Bergen, Norge",
+        "website": "https://www.hafslund.no/",
+        "skills": "Android, Kotlin, iOS, Swift, Firebase",
+        "experience": [
+          "Hafslund Nett er en app for både Android og iOS for visning av strømforbruk, strømbrudd, fakturainformasjon og rapportering av brudd og måleravlesning.",
+          "Torbjørn har arbeidet med implementasjon av både Android og iOS."
+        ]    
+    },
+    {
+        "company": "Bergen Cykleklubb",
+        "description": "Prosjekt: Bergen-Voss",
+        "period": "11/2016 - 01/2017",
+        "location": "Bergen, Norge",
+        "website": "https://www.bergenvoss.no/",
+        "skills": "Wordpress",
+        "experience": [
+          "Nye nettsider til Bergen-Voss for Bergen Cykleklubb.",
+          "Torbjørn har jobbet med utvikling av sidemaler, logikk og funksjon på sidene.",
+          "Løsningene er bygget med WordPress og har tatt i bruk responsivt design og vektorbasert grafikk."
+        ]    
+      },
+      {
+        "company": "UiB/Bjerknessenteret",
+        "description": "Prosjekt: Den Norske Klimamodellen",
+        "period": "10/2016 - 12/2016",
+        "location": "Bergen, Norge",
+        "website": "https://www.bjerknes.uib.no/",
+        "skills": "Wordpress",
+        "experience": [
+          "Nye nettsider for den norske klimamodellen laget i Wordpress.",
+          "Torbjørn har hatt ansvar for estimering, tekniske valg og implementering av sidene."
+        ]
+      },
+      {
+        "company": "Fotoknudsen",
+        "description": "Prosjekt: Minnebanken",
+        "period": "08/2016 - 01/2019",
+        "location": "Bergen, Norge",
+        "website": "https://minnebanken.no",
+        "skills": "Android, Java",
+        "experience": [
+          "Minnebanken er en Android app som lar brukeren laste opp bilder fra telefonen, enten manuelt eller ved automatisk synkronisering, og viser alle bilder, album og hendelser.",
+          "Torbjørn har deltatt i planlegging, estimering og utvikling av appen.",
+          "Appen er utviklet i Java og snakker med et REST-API levert av Fotoknudsen."
+        ]
+      },
+      {
+        "company": "Nasjonalbiblioteket",
+        "description": "Prosjekt: Munin",
+        "period": "11/2015 - 10/2018",
+        "location": "Bergen, Norge",
+        "website": "https://www.nb.no/",
+        "skills": "Java, Spring, Maven, Linux, Event Sourcing, Angular",
+        "experience": [
+          "Munin er et system for automatisk import, validering og arkivering av aviser fra ulike mediehus i Norge",
+          "Torbjørn var utvikler og jobbet med Java, Spring og Angular",
+          "Applikasjonen er bygd etter Event Sourcing arkitektur i Java og Akka"
+        ]
+      },
+  
+      {
+        "company": "BKK",
+        "description": "Prosjekt: Bien",
+        "period": "08/2015 - 05/2017",
+        "location": "Bergen, Norge",
+        "website": "https://bkk.no",
+        "skills": "Java, Java Server Pages, Escenic 5, JavaScript",
+        "experience": [
+          "Bien var BKK's intranettløsning som benyttet Escenic 5 og tilhørende Widget Framework.",
+          "Torbjørn jobbet med utvikling, feilretting og vedlikehold av Escenic-installasjonen, samt integrasjon mot eksisterende tjenester for innlogging, oppdatering av brukerprofiler og annet innhold"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "title": "Bachelor Ingeniør elektro – automatiseringsteknikk",
+        "location": "Høgskulen Sogn og Fjordane",
+        "period": "2012-2015; Bachelor 3 år"
+      }
+    ]
+  }

@@ -1,0 +1,41 @@
+{
+  "candidate": {
+    "name": "",
+    "title": "",
+    "mail": "",
+    "phone": "",
+    "location": "",
+    "website": "",
+    "linkedin": "",
+    "github": "",
+    "skills": [
+      ""
+    ],
+    "languages": [
+      {
+        "lang": "",
+        "rank": 0
+      }
+    ],
+    "hobbies": [
+      ""
+    ]
+  },
+  "work": [{
+    "company": "",
+    "description": "",
+    "period": "",
+    "location": "",
+    "website": "",
+    "skills": "",
+    "experience": [
+    ],
+    "references": [
+    ]
+  }],
+  "education": [{
+    "title": "",
+    "location": "",
+    "period": ""
+  }]
+}

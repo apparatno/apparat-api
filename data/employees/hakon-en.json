@@ -1,0 +1,173 @@
+{
+  "candidate": {
+    "name": "Håkon Nilsen",
+    "title": "Senior consultant & CEO",
+    "mail": "hakon.nilsen@apparat.no",
+    "phone": "+47 97 97 97 57",
+    "picture": "/profilbilder/hakon-nilsen.jpeg",
+    "location": "Bergen, Norway",
+    "website": "www.apparat.no",
+    "linkedin": "linkedin.com/in/hnilsen/",
+    "github": "github.com/hnilsen",
+    "skills": [
+      "C#",
+      "Java",
+      ".NET",
+      "Kotlin",
+      "ASP.NET MVC",
+      "ASP.NET WebAPI",
+      "JavaScript",
+      "React",
+      "SASS",
+      "NodeJS",
+      "IIS",
+      "Visual Studio",
+      "MS-SQL",
+      "RavenDB",
+      "ExpressJS",
+      "Git",
+      "TeamCity",
+      "Android",
+      "AndroidX",
+      "iOS",
+      "xcode",
+      "Android Studio",
+      "AppCode",
+      "Cordova",
+      "TomCat",
+      "Jetty"
+    ],
+    "languages": [
+      {
+        "lang": "Norwegian",
+        "rank": 5
+      },
+      {
+        "lang": "English",
+        "rank": 5
+      }
+    ],
+    "hobbies": [
+      "Programming",
+      "Beekeeping",
+      "Sailing",
+      "Hunting",
+      "Culinary arts"
+    ]
+  },
+  "work": [
+    {
+      "company": "Consultant: Sparebanken Vest",
+      "description": "Acting CTO X-bank",
+      "period": "08/2018 - ",
+      "location": "Bergen, Norway",
+      "website": "https://spv.no",
+      "skills": "Native Android og iOS, Swift, Kotlin, Android Jetpack, xcode, AppCode, Android Studio, Docker, Kubernetes",
+      "experience": [
+        "Responsible for technical platform at the establishment of a new bank under Sparebanken Vest. The name of the bank is yet undecided, but codenamed X-bank. Håkons responsibility stretches from what's within the normal responsibility for a CTO, including putting together a team, deciding on work methods and employ more people",
+        "Responsible for contributing to the enabling for core systems that a bank must have; accounts, core systems, card services and so forth"
+      ]
+    },
+    {
+      "company": "Consultant: Sparebanken Vest",
+      "description": "Innovator",
+      "period": "03/2018 - 08/2018",
+      "location": "Bergen, Norge",
+      "website": "https://spv.no",
+      "skills": ".NET, C#, JavaScript, ASP.NET WebAPI, Android, iOS, Cordova",
+      "experience": [
+        "Leading the innovation group within Sparebanken Vest as both a developer and strategic partner",
+        "Architect behind the first push notification service in a Norwegian bank. Håkon worked strategically against the large internal IT division in SPV to enable collaboration across departments. He also delivered working code for the entire process, which was later adapted by developers within the teams that were responsible for their separate parts",
+        "Worked with a solution to create the future of transaction viewing for Sparebanken Vest through the use of many filters and a large array of external APIs in order to produce a solution that was presented to the leadership in SPV as the future of banking user interfaces"
+      ]
+    },
+    {
+      "company": "Consultant: Monobank",
+      "description": "Mobile developer",
+      "period": "08/2017 - 03/2018",
+      "location": "Bergen, Norge",
+      "website": "https://monobank.no",
+      "skills": "Native Android og iOS, Kotlin, Swift, VSTS, Bitrise",
+      "experience": [
+        "Hired as a mobile developer for their new credit card product; Mono Pay",
+        "Worked in parallell with both native Android and iOS",
+        "Developed a native <--> JavaScript bridge",
+        "Developed a crypto solution to establish trust between app and backend",
+        "Native views for activation and login"
+      ]
+    },
+    {
+      "company": "Consultant: Sparebanken Vest",
+      "description": "Developer",
+      "period": "01/2013 - 08/2017",
+      "location": "Bergen, Norge",
+      "website": "https://spv.no",
+      "skills": ".NET, C#, JavaScript, React, Redux, ASP.NET WebAPI, WCF, Android, iOS, Cordova, Dojo",
+      "experience": [
+        "Worked solely with the mobile banking app in Sparebanken Vest",
+        "An especial responsibility and interest in the hygene of the apps for Android and iOS, which is running a special version of Cordova",
+        "Responsible for many of the new solutions developed in SPV in this time period",
+        "Core developer on a cache solution (cachier.js) which helped stabilize and speed up the mobile solution",
+        "Had a big role in the establishment of the new web- and mobile banking solution, the so-called digitalbanken",
+        "Contributed in the Concept Group in SPV as the only technical contributor, where ideas are worked on and developed into finished concepts that can be directly implemented by the developers"
+      ]
+    },
+    {
+      "company": "Consultant: Nordea Liv",
+      "description": "Developer",
+      "period": "12/2011 - 12/2012",
+      "location": "Bergen, Norge",
+      "website": "https://nordea.no",
+      "skills": "Java, HTML, JavaScript, CSS, Jetty",
+      "experience": [
+        "Worked on a fund equity system",
+        "Project coordinator for CiC in the last half of the assignment"
+      ]
+    },
+    {
+      "company": "Consultant: DnbNOR",
+      "description": "Developer",
+      "period": "04/2010 - 11/2011",
+      "location": "Bergen, Norge",
+      "website": "https://dnb.no",
+      "skills": "Java, HTML, JavaScript, CSS, Jetty",
+      "experience": [
+        "Front end developer working on the new private market banking web solution in DnBNOR. At the time, DnBNOR was assimilating Postbankens private customers, which led to over a million new customers on this platform",
+        "Sole developer on DNBs first mobile banking solution"
+      ]
+    },
+    {
+      "company": "Apparat",
+      "description": "CEO",
+      "period": "08/2017 - ",
+      "location": "Bergen, Norge",
+      "website": "https://apparat.no",
+      "skills": "Development tasks, servant leadership, personell",
+      "experience": [
+        "Apparat was started after years of molding and planning. Apparat is a different kind of IT-company that values knowledge, openness, innovation and sharing above all else",
+        "Main goal of Håkons job is to take the role as a servant for the employees in Apparat",
+        "Currently also serving as an external consultant"
+      ]
+    },
+    {
+      "company": "EVRY",
+      "description": "Chief consultant",
+      "period": "04/2010 - 05/2014",
+      "location": "Bergen, Norge",
+      "website": "https://evry.no",
+      "skills": "Consultant working within numerous development regimes",
+      "experience": [
+        "Hired as a senior consultant, later a chief consultant, with focus on front end and mobile development in particular",
+        "Main responsibility for the Mobile Center of Excellence within EVRY",
+        "Working on a number of internal projects from the company leadership"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Computer Science",
+      "location": "Univeristy of Bergen",
+      "period": "2004-2006"
+    }
+  ]
+}

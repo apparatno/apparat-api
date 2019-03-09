@@ -1,0 +1,146 @@
+{
+  "candidate": {
+    "name": "Arthur Cideron",
+    "title": "Seniorkonsulent",
+    "mail": "arthur.cideron@apparat.no",
+    "phone": "948 42 231",
+    "picture": "/profilbilder/arthur-cideron.jpeg",
+    "location": "Bergen",
+    "website": "www.apparat.no",
+    "linkedin": "linkedin.com/in/arthur-cideron",
+    "github": "github.com/ArthurCideron",
+    "skills": [
+      "Android",
+      "Java",
+      "Python",
+      "Javascript",
+      "React",
+      "Redux",
+      "NodeJS",
+      "Linux",
+      "RxJava",
+      "REST",
+      "git",
+      "Cordova",
+      "Scrum",
+      "C#",
+      "Retrofit",
+      "Dagger",
+      "HTML",
+      "ButterKnife",
+      "Espresso",
+      "Cucumber",
+      "SASS"
+    ],
+    "languages": [
+      {
+        "lang": "Engelsk",
+        "rank": 5
+      },
+      {
+        "lang": "Fransk",
+        "rank": 5
+      },
+      {
+        "lang": "Norsk",
+        "rank": 4
+      }
+    ],
+    "hobbies": [
+      "Fallskjermhopping",
+      "Reise",
+      "Snowboarding",
+      "Dataspill",
+      "Salsadansing",
+      "Bitcoin"
+    ]
+  },
+  "work": [
+    {
+      "company": "Sparebanken Vest",
+      "description": "Web- og API-utvikler",
+      "period": "01/2018 - 07/2018",
+      "location": "Bergen, Norge",
+      "website": "https://www.spv.no",
+      "skills": "Javascript, NodeJS, NPM, React, Redux, HTML, Sass, C#",
+      "experience": [
+        "Reactive JavaScript utvikling med fokus på responsiv design: Som del av eit team med 6 utviklarar og testarar har eg overført og oversatt fleire JavaScript-modular. Desse var samproduserte med Evry og me implementerte dei på nytt inn i SPV sin eigen kodebase. Dette innebar bruk av ein moderne tech stack, inkludert råmeverk som React/Redux/Enzyme og ES2017 standard. Arbeidet vart utført med fokus på god design og responsiv tilnærming til skala; både på mobil og desktop.",
+        "REST API programmering: Eg har også, saman med det same teamet, implementert RESTful APIar som korresponderte med våre JavaScript modular. Med særskilt vekt på testing, kopla me klientapplikasjonen med banken sin backend ved bruk av C#.",
+        "Rask utvikling: Me brukte ein AGILE metode som blandar scrum og kanban. På denne måten kunne me iterate raskt."
+      ],
+      "references": [
+        "Leif Åsmund Mørk - leif.mork@spv.no"
+      ]
+    },
+    {
+      "company": "Ditio",
+      "description": "Androidutvikler",
+      "period": "01/2018 - 03/2018",
+      "location": "Bergen, Norge",
+      "website": "https://www.ditio.no",
+      "skills": "OpenId, IdentityServer, generell Android-utvikling",
+      "experience": [
+        "Ditio er eit Bergensfødt startup som digitaliserer anleggsplassen og gir nye moglegheiter til entreprenørar.",
+        "Eg hjelpte Ditio i ei veke med å migrere autentiseringssystemet dei nytta til OpenId på Android applikasjon deiras, og refaktorerte deler av appen i prosessen."
+      ]
+    },
+    {
+      "company": "Cisco Systems",
+      "description": "Androidutvikler",
+      "period": "08/2013 - 12/2017",
+      "location": "Oslo, Norge",
+      "website": "https://www.cisco.com",
+      "skills": "Android, RxJava, Retrofit, REST, Gradle, Mockito, Cucumber",
+      "experience": [
+        "Cisco Systems si avdeling i Oslo spesialiserer seg på videokonferanse- og samarbeidverktøy for bedrifter. Portfolioen spenner frå små, personlege einingar, som DX-series. Denne sit på pulten og har touch-skjerm og HD kamera. Vidare inneheld portfolien IX5000 Series, som tek over heile rom med fleire 70'' 4K skjermar, alle kontrollert av eit nettbrett. Til sist må Spark Board nemnast; ei digital, touch-basert, tavleløysing.",
+        "Som Android utvikler jobba eg på desse tre produkta i løpet av fire år. Samtlege brukar Android, anten headless eller Googlecompliant med Play Services.",
+        "Oppgåvene mine på DX Series var å implementere deler hovudfunksjonane; anrops- og konkaktbehandlingsapplikasjonen. Arbeidet var svært frontend-tungt og innebar mange spesialtilpassa element på toppen av Android platformet, slik som til dømes tastaturet eller GridView-et.",
+        "IX Series-løysinga er kontrollert frå Android nettbrettet som eg utvikla. Eg forenkla applikasjonane nemnt ovanfor til å bruka mindre ressursar og eg integrerte dei med Cisco sin interne API.",
+        "Eg bidrog vidare med å designa arkitekturen av og implementerte den digitale tavle-løysinga i produkta Cisco Spark Board og Cisco Spark Android-applikasjon. Spark Board er ein av dei siste samarbeidsverktøya som tek sikte på å vera \"the-one-to-rule-them-all\": ein 55''-80'' 4K skjerm som ein kan bruka til å presentere trådlaust, teikna på digital tavle eller delta i videokonferansar. Eg var med på prosjektet nesten frå starten og deltok på lanseringa i San Francisco i 2017. Tavle-løysinga eg var med å utvikle tillet brukarane å samarbeide i grupper, sjølv om dei sit på heilt forskjellige stader i verda; eininga koplar seg til Spark-skya og sender end-to-end kryptert data til andre i sanntid. Eg arbeida med heile processen, frå UI på Spark Board (og Spark Android-appen), geometrisk modellering (smoothing, pruning), kryptering, tilgangskontroll og sending av data via ein websocket og til REST API. Eg jobba tett med backend-teamet og andre frontend-utviklar i San Francisco, London og Shanghai.",
+        "Eg var Scrum Master på fleire av desse prosjekta, med mellom 5 til 10 utviklarar og testarar i Oslo. Eg styrte prosessen framover ved å ta i bruk AGILE-metodikk."
+      ],
+      "references": [
+        "Andreas Aardal Hanssen - andrhans@cisco.com",
+        "Vegard Hammer - vegard@hammerhome.no"
+      ]
+    },
+    {
+      "company": "Cisco Systems",
+      "description": "Androidutvikler",
+      "period": "2015 - 12/2017",
+      "location": "Oslo, Norge",
+      "website": "https://www.cisco.com",
+      "skills": "Javascript, NodeJS, React, Redux, Selenium, HTML, Sass, Scrum",
+      "experience": [
+        "Saman med tidlegare nemnte team, deltok eg i utviklinga og lanseringa av den første versjonen av tavleapplikasjonen Cisco Spark. Me utvikla den som ein integert web-applikasjon som kunne fungere i ulike platformar, slike som iOS, Windows, MacOS og nylege nettlesarar. Me bygde vår eiga Cordova-liknande, lettvektsbru."
+      ],
+      "references": [
+        "Vegard Hammer - vegard@hammerhome.no"
+      ]
+    },
+    {
+      "company": "Clippy Pty Ltd",
+      "description": "Mobilutvikler",
+      "period": "12/2012 - 06/2013",
+      "location": "Sidney, Australia",
+      "website": "https://clippy.co",
+      "skills": "Android, Blackberry, Cordova/Phonegap JavaScript, jQuery, Backbone, Innbetaling",
+      "experience": [
+        "Clipp er ein bar- og restaurant applikasjon som handterer bestilling og betaling direkte på mobil. Appen koplar seg til POS-systemet i puben og åpner ein \"tab\" som ein nyttar til å bestilla mat eller drikke. Når ein er forsynt, kan ein anten avslutta \"tabben\" manuelt, eller så vert det gjort automatisk når GPSen på mobilen merkar endra posisjon.",
+        "Eg var åleine ansvarleg for heile utviklinga, på både Android og Blackberry 10, og gjorde dette ved bruk av Cordova og JavaScript."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Sivilingeniør i Computer Engineering",
+      "location": "ISEN Toulon, France",
+      "period": "2013"
+    },
+    {
+      "title": "Postgraduate Certificate in Software & IT",
+      "location": "Lincoln University, New Zealand",
+      "period": "2012"
+    }
+  ]
+}
