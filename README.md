@@ -16,7 +16,7 @@ GET /employees
 
 ### `/employees/:name`
 
-Returnerer en info om en ansatt
+Returnerer info om en ansatt
 
 ```
 GET /employees/:name
