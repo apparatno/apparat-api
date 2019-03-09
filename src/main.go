@@ -15,7 +15,8 @@ func main() {
 	router := httprouter.New()
 
 	router.GET("/employees", config.DI.EmployeeController.GetEmployees)
-	router.GET("/employee/:name", config.DI.EmployeeController.GetEmployeeByName)
+	router.GET("/employees/:name", config.DI.EmployeeController.GetEmployeeByName)
+	router.GET("/employeenames", config.DI.EmployeeController.GetEmployeeNames)
 	router.Handle("GET", "/favicon.ico", noopHandler)
 
 	router.ServeFiles("/public/profilbilder/*filepath", http.Dir("public/profilbilder"))

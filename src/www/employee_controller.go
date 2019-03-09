@@ -8,12 +8,13 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"os"
 )
 
 type EmployeeController struct{}
 
 func (c EmployeeController) GetEmployees(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
-	files, err := ioutil.ReadDir("data/employees")
+	files, err := getEmployeeFiles()
 	if err != nil {
 		log.Printf("could not read employees: %s", err)
 		http.Error(w, "server error", http.StatusInternalServerError)
@@ -37,8 +38,8 @@ func (c EmployeeController) GetEmployees(w http.ResponseWriter, r *http.Request,
 			continue
 		}
 
-		fileNameWithoutExtension := fileName[:len(fileName)-5]
-		employees[fileNameWithoutExtension] = employee
+		employeeName := getEmployeeName(fileName)
+		employees[employeeName] = employee
 	}
 
 	employeesBytes, err := json.Marshal(employees)
@@ -85,4 +86,68 @@ func (c EmployeeController) GetEmployeeByName(w http.ResponseWriter, r *http.Req
 		log.Printf("could not write employee to response: %s", err)
 		http.Error(w, "server error", http.StatusInternalServerError)
 	}
+}
+
+func (c EmployeeController) GetEmployeeNames(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
+	files, err := getEmployeeFiles()
+	if err != nil {
+		log.Printf("could not read employees: %s", err)
+		http.Error(w, "server error", http.StatusInternalServerError)
+		return
+	}
+
+	var employeeNames []string
+	for _, file := range files {
+		employeeName := getEmployeeName(file.Name())
+		employeeNames = append(employeeNames, employeeName)
+	}
+
+	namesJson, err := json.Marshal(employeeNames)
+	if err != nil {
+		log.Printf("could not marshal employee names: %s", err)
+		http.Error(w, "server error", http.StatusInternalServerError)
+		return
+	}
+
+	_, err = w.Write(namesJson)
+	if err != nil {
+		log.Printf("could not write names to response: %s", err)
+		http.Error(w, "server error", http.StatusInternalServerError)
+		return
+	}
+}
+
+func getEmployeeFiles() ([]os.FileInfo, error) {
+	files, err := ioutil.ReadDir("data/employees")
+	if err != nil {
+		return nil, err
+	}
+
+	excludeFiles := []string{"default.json"}
+
+	var employees []os.FileInfo
+	for _, file := range files {
+		exclude := false
+
+		for _, ex := range excludeFiles {
+			if file.Name() == ex {
+				exclude = true
+				break
+			}
+		}
+
+		if !exclude {
+			employees = append(employees, file)
+		}
+	}
+
+	return employees, nil
+}
+
+func getEmployeeName(fileName string) string {
+	return getFileNameWithoutExtension(fileName, ".json")
+}
+
+func getFileNameWithoutExtension(fileName string, ext string) string {
+	return fileName[:len(fileName)-len(ext)]
 }
